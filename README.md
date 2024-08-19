@@ -1,6 +1,6 @@
 ## Hello there, This is Vedh Kumar a frontend developer.
 ### Familar with React, Zustand, Supabase, Tailwind CSS, Framer Motion, React Query, React Router.
-#### Started building beginner projects and i will update them on my X handle.
+### Started building beginner projects and i will update them on my X handle.
 
 <!--
 **Vedhkumar/vedhkumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
